@@ -1,4 +1,4 @@
-![Data Engineering Banner](https://maelfabien.github.io/assets/images/bgd_head.png))
+![Data Engineering Banner](https://maelfabien.github.io/assets/images/bgd_head.png)
 <h1 align="center">Hi 👋, I'm Mateus D Souza</h1>
 <h3 align="center">I am a passionate data engineer with a strong focus on developing efficient ETL processes and orchestrating data workflows.
   I am also interested in microservices architecture and continuously seek opportunities to enhance my skills, specially in Scala.</h3>
